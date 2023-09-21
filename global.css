@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sawarabi-gothic: "Sawarabi Gothic";
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-black: #000;
+}
